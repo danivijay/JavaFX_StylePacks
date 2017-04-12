@@ -1,0 +1,4 @@
+include 'jfoenix'
+include 'demo'
+
+rootProject.name = 'jfoenix-root'
